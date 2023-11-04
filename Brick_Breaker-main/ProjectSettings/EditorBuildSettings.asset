@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/New Scene/1.unity
+    guid: 94fc7e17208d19a479d207b8c8133dd2
+  - enabled: 1
+    path: Assets/New Scene/2.unity
+    guid: f1b122479c0aa8d4c9e88f857118993d
+  - enabled: 1
+    path: Assets/New Scene/next level1 1.unity
+    guid: d65fdd061f6e55e4f95f672466bee6fe
+  - enabled: 1
+    path: Assets/New Scene/3.unity
+    guid: 92e495852d2054b48b0efde8ac4f1a14
+  - enabled: 1
+    path: Assets/New Scene/next level2 1.unity
+    guid: b68bcd50961800e49999bd5f2f265d0f
+  - enabled: 1
+    path: Assets/New Scene/4.unity
+    guid: e25a77801199725409dc6e77055c66bf
+  - enabled: 1
+    path: Assets/New Scene/next level2.unity
+    guid: bd90f85ca2c652e458d863ce6484591b
+  - enabled: 1
+    path: Assets/New Scene/5.unity
+    guid: c2204fbda5c48b74db74b075ccee4a3f
+  - enabled: 1
+    path: Assets/New Scene/next level2 2.unity
+    guid: 54c198335a310814bb94f651bf31436a
+  - enabled: 1
+    path: Assets/New Scene/6.unity
+    guid: 536671fa5f6f1624baa300f72b482793
+  - enabled: 1
+    path: Assets/New Scene/win.unity
+    guid: 8f261ea3d08c3ce46ad3843da5dfc0a3
+  - enabled: 1
+    path: Assets/New Scene/endgame.unity
+    guid: 4e186cfa40fcb5948a94df469110c159
+  m_configObjects: {}
